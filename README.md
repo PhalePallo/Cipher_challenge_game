@@ -28,16 +28,12 @@ This project is an educational and fun cipher game that challenges users to decr
 * Interactive widgets (labels, entries, buttons).
 * Event-driven logic (on-click callbacks).
 
-### 5. **Dark Mode**:
-
-* Toggle between light and dark UI themes dynamically.
-
-### 6. **High Score Tracking**:
+### 5. **High Score Tracking**:
 
 * Saves names and scores to a local file.
 * Sorts and displays top scores.
 
-### 7. **Multiplayer Logic** (CLI):
+### 6. **Multiplayer Logic** (CLI):
 
 * Turn-based scoring for two players.
 
